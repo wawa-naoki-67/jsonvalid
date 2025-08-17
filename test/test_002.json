@@ -1,0 +1,14 @@
+{
+    "id": "test_002",
+    "when": "20120912",
+    "stuff": [
+        {
+            "label": 0,
+            "data": "data0"
+        },
+        {
+            "label": 1,
+            "data": "data1"
+        }
+    ]
+}
